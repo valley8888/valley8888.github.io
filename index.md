@@ -1,5 +1,4 @@
-# valley8888.github.io
-Psyprosvet
+# Psyprosvet
 
 Syntax highlighted code block
 
